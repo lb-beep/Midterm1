@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/bin/Debug/netcoreapp3.1/AntonioDiner.deps.json
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/bin/Debug/netcoreapp3.1/AntonioDiner.runtimeconfig.json
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/bin/Debug/netcoreapp3.1/AntonioDiner.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/bin/Debug/netcoreapp3.1/AntonioDiner.dll
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/bin/Debug/netcoreapp3.1/AntonioDiner.pdb
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/obj/Debug/netcoreapp3.1/AntonioDiner.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/obj/Debug/netcoreapp3.1/AntonioDiner.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/obj/Debug/netcoreapp3.1/AntonioDiner.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/obj/Debug/netcoreapp3.1/AntonioDiner.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/obj/Debug/netcoreapp3.1/AntonioDiner.dll
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/obj/Debug/netcoreapp3.1/AntonioDiner.pdb
+/Users/antonio/Desktop/CS133 Project/AntonioDiner/AntonioDiner/obj/Debug/netcoreapp3.1/AntonioDiner.genruntimeconfig.cache
